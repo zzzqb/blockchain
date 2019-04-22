@@ -1,0 +1,6 @@
+block_0	{"pre_hash":"","index":0,"data":"Genesis","timetamp":1553948057931,"hash":"58d0a005f475dff02238a32e8ad67ef0"}
+index	0
+block_1	{"pre_hash":"58d0a005f475dff02238a32e8ad67ef0","index":1,"data":{"destext":"Ko9cBkHfYWI=","deskey":{"words":[1181832771,1448371255,1899051115,1750090565],"sigBytes":16},"texthash":"4e4d6c332b6fe62a63afe56171fd3725","address":"GPH9Jw8v7vmqKTaMjJpac2xefehQ7d9nJkAm","publicKey":"GPH6HqQmNUBb3AqTfW7MtBqVCPXDJuKnZVEeyxPNk64sE6QYQKyH5","signedHex":"2040212d15aec4871690fe584fb753cb949063e176d8f6560c63b65a664f1ba0d312b4a1e84f0361eb49548a3e57505a577e87f2016fa7d760c8746d7ba693a0e0"},"timetamp":1553948114384,"hash":"6955fdc99619154aa7d19eb85edd4541"}
+index	1
+block_2	{"pre_hash":"6955fdc99619154aa7d19eb85edd4541","index":2,"data":{"destext":"ad/AYg1eQF0=","deskey":{"words":[1144341832,877686121,2003384376,1313886259],"sigBytes":16},"texthash":"5d41402abc4b2a76b9719d911017c592","address":"GPH9Jw8v7vmqKTaMjJpac2xefehQ7d9nJkAm","publicKey":"GPH6HqQmNUBb3AqTfW7MtBqVCPXDJuKnZVEeyxPNk64sE6QYQKyH5","signedHex":"2044107a663bc207a6c1bd96b26e759ad480a2e3a4f9e3661b2bb1910012e958f139124c459d384bf5b05641f581bb025755fc66c39ef509a2d1cc6732b6115ed6"},"timetamp":1553948839734,"hash":"4fb2c8448077328216c143b57ab3d56b"}
+index	2
